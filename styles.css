@@ -1,0 +1,57 @@
+body{
+    position:relative
+    text-alaign:center;
+}
+div{
+    display:inline block;
+    width:30%;
+    height:35%;
+
+}
+.bio{
+    background-color: blue;
+    position:absolute;
+    font: size 12px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    width:300px;
+    height:200px;
+}
+.education{
+    background-color:blueviolet;
+    position:absolute;
+    font-size:medium;
+    font-family:-apple-system, BlinkMacSystemFont, Segoe UI;
+    width: 300px;
+    height:200px;
+    left:300px;
+    top:200px;
+}
+.hobbies{
+    background-color: cyan;
+    font-size: 13px;
+    font-family: monospace;
+    position:absolute;
+    width:300px;
+    height:200px;
+    top:400px;
+    
+}
+.photo{
+    background: lawngreen;
+    position:absolute;
+    font: 1em sans-serif;
+    font-size: medium;
+    width:300px;
+    height:200px;
+    left:600px;
+}
+.contact{
+    background-color:crimson;
+    position:absolute;
+    font: sie 10px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width:300px;
+    height:200px;
+    left:600px;
+    top:400px;
+}
